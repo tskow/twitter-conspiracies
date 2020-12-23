@@ -4,10 +4,10 @@ import pandas as pd
 import datetime
 import json
 
-consumer_key = 'BohsdeC0vtoBunjl0kc9Kzdb3'
-consumer_secret = 'e5wyAIQpVRGHMsRjoEif1QBtc7w4m0AHi0hcW2LX9zjNl8sZSO'
-access_token = '1300899730713526274-DSRQsmwrRRA8o5zcwupz5ZZJCjWnC7'
-access_token_secret = 'O9vGd2Wqi2csXX1L1mQ7R51DZTcZy3bB2Tk6MOM8JYQb4'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)

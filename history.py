@@ -9,8 +9,8 @@
 
 def twitterHistory(filename, nresults, date=None, searchQuery=None):
     
-    API_KEY = 'BohsdeC0vtoBunjl0kc9Kzdb3'
-    API_SECRET_KEY = 'e5wyAIQpVRGHMsRjoEif1QBtc7w4m0AHi0hcW2LX9zjNl8sZSO'
+    API_KEY = ''
+    API_SECRET_KEY = ''
     DEV_ENVIRONMENT_LABEL = 'dev'
     API_SCOPE = '30day'  # 'fullarchive' for full archive, '30day' for last 31 days
 
